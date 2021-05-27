@@ -1,0 +1,18 @@
+html {
+    box-sizing: border-box;
+  }
+  *,*::before,*::after {
+    box-sizing: inherit;
+  }
+  body {
+    margin: 0;
+  }
+  .wave-container {
+    background-image: #EEE;
+
+  }
+  .wave-container > svg {
+    display: block;
+    background-image: url("img/macbookm1.jpg");
+    
+}
